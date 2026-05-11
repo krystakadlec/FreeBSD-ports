@@ -1,0 +1,3 @@
+Cisco Duo Multi-Factor Authentication package for pfSense.
+Provides secure 2FA for OpenVPN and other services with 
+automated E2E API validation and anti-lockout protection.
